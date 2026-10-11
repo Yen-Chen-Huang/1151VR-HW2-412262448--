@@ -10,7 +10,9 @@ https://youtu.be/NoYm87o2F0s
 說明製作流程和相關操作
 
 1. 場景與角色配置
+	
 	建立 2D 專案：在 Unity 中建立 2D 模板專案，並配置攝影機與背景顏色。
+
 	角色與平台建立：匯入 2D 角色圖片（Sprite），建立角色 GameObject 並掛載 C#檔案及Sprite Renderer；利用內建 2D Square 建立地面與右側目標跳台作為參照物。
 
 3. 核心邏輯設計（Vector 與陣列應用）
