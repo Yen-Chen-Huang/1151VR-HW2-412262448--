@@ -27,6 +27,5 @@ https://youtu.be/NoYm87o2F0s
 利用目標點與角色位置的 X 軸差值判斷前進方向，動態切換 SpriteRenderer.flipX 實現移動時自動轉頭。
 
 5. 操作方式
-   
-點擊 Unity 上方 Play執行
+	點擊 Unity 上方 Play執行
 
